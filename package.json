@@ -6,7 +6,12 @@
   "repository": {
     "url": "git://github.com/banger-media/radioking-utilities.git"
   },
-  "version": "0.0.1",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "/build"
+  ],
+  "version": "0.0.2",
   "devDependencies": {
     "@types/node": "^14.14.28",
     "@types/tough-cookie": "^4.0.0",
