@@ -1,5 +1,11 @@
 {
   "name": "radioking-utilities",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/banger-media/radioking-utilities"
+  },
   "version": "0.0.1",
   "devDependencies": {
     "@types/node": "^14.14.28",
