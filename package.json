@@ -1,5 +1,5 @@
 {
-  "name": "radioking-utilities",
+  "name": "@banger-media/radioking-utilities",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
