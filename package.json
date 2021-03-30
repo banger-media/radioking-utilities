@@ -4,7 +4,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "url": "https://github.com/banger-media/radioking-utilities"
+    "url": "git://github.com/banger-media/radioking-utilities.git"
   },
   "version": "0.0.1",
   "devDependencies": {
